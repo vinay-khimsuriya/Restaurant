@@ -1,0 +1,17 @@
+#heading{
+    color:aqua;
+    background-color: darkgreen;
+}
+#p1{
+    color: blue;
+    background-color: aliceblue;
+}
+#p2{
+    text-align: center;
+    color: chartreuse;
+    background-color: darkgray;
+}
+#li{
+    color: aliceblue;
+    background-color: darkgoldenrod;
+}
